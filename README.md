@@ -1,7 +1,6 @@
-# Adaptive Replanning Under Realistic Sensor Degradation
-### for Autonomous Martian Rover Navigation
+# Adaptive Replanning Under Realistic Sensor Degradation for Autonomous Martian Rover Navigation
 
-**BSc Computer Science — Final Year Dissertation**
+**Msc Data Science and AI Dissertation**
 **Newcastle University — 2026**
 
 ---
