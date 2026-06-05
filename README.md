@@ -127,7 +127,7 @@ Run notebooks in order — each builds on the previous:
 3. Enable GPU: **Runtime → Change runtime type → T4 GPU**
 4. Run all cells top to bottom with **Shift + Enter**
 
-> ⚠️ Notebook 03 requires a GPU. Enable it before running to avoid slow training.
+> Notebook 03 requires a GPU. Enable it before running to avoid slow training.
 
 ---
 
@@ -160,17 +160,7 @@ Run notebooks in order — each builds on the previous:
 
 ---
 
-## Roadmap
 
-- [x] Notebook 01 — Baseline Navigation System
-- [x] Notebook 02 — Sensor Degradation Module
-- [x] Notebook 03 — CNN Terrain Classifier
-- [ ] Notebook 04 — Sensor Quality Monitor
-- [ ] Notebook 05 — Adaptive Replanning System
-- [ ] Notebook 06 — Evaluation
-- [ ] Unity Simulation Environment
-
----
 
 ## Repository
 
@@ -184,7 +174,4 @@ This project is released under the [MIT Licence](https://opensource.org/licenses
 
 ---
 
-## Author
 
-**rianeps** — BSc Computer Science, Newcastle University, 2026
-Supervisor: [Supervisor Name]
