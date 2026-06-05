@@ -111,11 +111,6 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
-Set your project data path at the top of each notebook:
-```python
-DATA_PATH = '/content/drive/MyDrive/Colab Notebooks/Mars Rover Project/mars_terrain'
-```
-
 ---
 
 ## Running the Notebooks
