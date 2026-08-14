@@ -39,36 +39,7 @@ The project aims to:
 
 The project follows a pipeline from terrain perception to navigation and replanning:
 
-```text
-Martian Terrain Data
-        │
-        ▼
-Terrain Classification
-        │
-        ▼
-Terrain Risk / Cost Map
-        │
-        ▼
-Sensor Quality Monitoring
-        │
-        ▼
-Sensor Degradation
-        │
-        ▼
-Initial A* Path
-        │
-        ▼
-Terrain / Sensor Changes
-        │
-        ▼
-Adaptive A* Replanning
-        │
-        ▼
-Updated Rover Path
-        │
-        ▼
-Unity Rover Simulation
-```
+![System Pipeline](docs/system_pipeline_spacious.png)
 
 ---
 
