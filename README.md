@@ -284,13 +284,11 @@ Unity will regenerate its local `Library`, `Temp`, and other generated directori
 
 ## Technologies
 
-![Python](https://skillicons.dev/icons?i=py)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png)
+## Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,jupyter,unity,cs,git,github,vscode" />
+</p>
 ## Methods
 
 **Path Planning:** A* · Adaptive A*
