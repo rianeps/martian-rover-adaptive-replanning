@@ -282,18 +282,22 @@ Unity will regenerate its local `Library`, `Temp`, and other generated directori
 
 ---
 
-## Key Technologies
+## Technologies
 
-* **Python**
-* **PyTorch**
-* **A***
-* **Adaptive A***
-* **CNN-based terrain classification**
-* **SSIM**
-* **Jupyter / Google Colab**
-* **Unity**
-* **C#**
-* **Git / GitHub**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+## Methods
+
+**Path Planning:** A* · Adaptive A*
+
+**Computer Vision:** CNN-based terrain classification · SSIM
+
+**Navigation:** Terrain-aware cost mapping · Sensor degradation · Adaptive replanning
 
 ---
 
