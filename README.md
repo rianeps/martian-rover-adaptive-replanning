@@ -87,6 +87,8 @@ Adaptive A* extends the planning process by allowing information from previous s
 
 When terrain costs change because of simulated sensor degradation, the rover can reconsider its existing route rather than simply continuing along the original path.
 
+![Replanning Pipeline](docs/degradation_adaptive_replanning_flow.svg)
+
 The comparison between baseline A* and Adaptive A* forms the main experimental component of the project.
 
 ---
