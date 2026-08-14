@@ -1,0 +1,10 @@
+Degradation,Severity,Baseline Success,Adaptive Success,Baseline Avg Rocky Steps,Adaptive Avg Rocky Steps,Baseline Unexpected Rocky,Rocky Steps Avoided,Avg Replans
+Gaussian Noise,Mild,18/20,18/20,1.28,0.44,0.72,0.83,0.9
+Gaussian Noise,Moderate,18/20,18/20,2.67,0.39,1.83,2.28,0.9
+Gaussian Noise,Severe,18/20,18/20,3.89,0.39,3.39,3.5,0.9
+Occlusion,Mild,18/20,18/20,1.28,0.44,0.72,0.83,0.9
+Occlusion,Moderate,18/20,18/20,2.67,0.39,1.83,2.28,0.9
+Occlusion,Severe,18/20,18/20,3.89,0.39,3.39,3.5,0.9
+Dropout,Mild,18/20,18/20,1.28,0.44,0.72,0.83,0.9
+Dropout,Moderate,18/20,18/20,2.67,0.39,1.83,2.28,0.9
+Dropout,Severe,18/20,18/20,3.89,0.39,3.39,3.5,0.9

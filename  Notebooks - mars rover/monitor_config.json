@@ -1,0 +1,21 @@
+{
+  "ssim_thresholds": {
+    "clean": 0.7,
+    "degraded": 0.4
+  },
+  "confidence_thresholds": {
+    "clean": 0.6,
+    "degraded": 0.4
+  },
+  "trigger_rule": "EITHER signal below threshold triggers escalation",
+  "severity_levels": [
+    "Clean",
+    "Degraded",
+    "Critical"
+  ],
+  "uncertainty_multipliers": {
+    "Clean": 1.0,
+    "Degraded": 2.0,
+    "Critical": 5.0
+  }
+}

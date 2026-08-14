@@ -1,0 +1,77 @@
+# macOS / OS files
+
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Specifically: local environment used by Live Server
+Mars Rover project-live server/rover_env/
+
+# Jupyter / Colab
+
+.ipynb_checkpoints/
+
+# Downloaded Mars terrain datasets
+
+Notebooks - mars rover/mars_terrain/
+Mars Rover project-live server/mars_terrain/
+
+
+
+# Unity
+
+
+# Generated Unity folders
+martian project- unity/Library/
+martian project- unity/Temp/
+martian project- unity/Logs/
+martian project- unity/Obj/
+martian project- unity/Build/
+martian project- unity/Builds/
+
+# Unity local/editor settings
+martian project- unity/UserSettings/
+
+# Unity generated solution/project files
+martian project- unity/*.csproj
+martian project- unity/*.sln
+martian project- unity/*.suo
+martian project- unity/*.user
+martian project- unity/*.userprefs
+
+
+# ==========================================
+# Python / project generated output
+# ==========================================
+
+*.pyc
+
+
+# ==========================================
+# IDE / editor files
+# ==========================================
+
+.vscode/
+.idea/
+
+# Temporary files
+
+*.tmp
+*.temp
+*.bak
+*~
